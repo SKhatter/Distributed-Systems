@@ -1,8 +1,3 @@
-Project sumbmitted by-
-Sumedha Khatter (A53094878)
-Divya Aggarwal (A53093235)
-
-
 -Steps to be followed-
 
 Step1.Start the container using the command below
