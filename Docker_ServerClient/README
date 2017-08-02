@@ -1,7 +1,6 @@
-Ubuntu  Docker  containers will  serve  as the  nodes.  They  will be  networked
-via the Docker bridge network.  And a Docker data volume container will be used to enable the nodes
-to share data, simulting a distributed  le system.
-This project is designed to help you to bootstrap that process.  You will (i) complete the Docker tutorial,
-(ii) create Docker les to describe a node, (ii) develop a really simple client and server, (iii) modify the
-Docker le into two  les, one for a client and one for a server, (iv) demonstrate that your client andserver
-can interact.
+Ubuntu  Docker  containers will  serve  as the  nodes.  They  will be  networked via the Docker bridge network.  And a Docker data volume container will be used to enable the nodes to share data, simulting a distributed  file system. This project is designed to bootstrap that process.  The project includes:
+(i) completion of the Docker tutorial
+(ii) creation of the  Docker files to describe a node
+(iii) development of a really simple client and server
+(iv) modification of the Docker file into two  files, one for a client and one for a server
+(v) demonstration that client andserver can interact.
