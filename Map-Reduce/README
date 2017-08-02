@@ -1,0 +1,11 @@
+This  project  is  designed  to  give  you  a  basic  familiarity  with  the  MapReduce  paradigm  via  the  Hadoop
+framework.  We give you Docker les to enable you to build and start a Hadoop cluster that is pre-loaded
+with the Hadoop word-count exampland text data  les.
+Your  rst task is to use the Docker console to start up a Hadoop cluster consisting of one Hadoop/HDFS
+master node and four(4) Hadoop/HDFS client nodes.
+Your  second  task  is  to  run  the  WordCount  example,  as  is,  without  modi cation,  and  con rm  that
+your cluster is working.
+Your third task is to modify the WordCount example to create a BigramExample, which counts the
+number of bigrams within the corpus.  At the conclusion of its exectution, it should output three pieces
+of information, one per line:  (1 )the total number of bigrams, (2)i the most common bigram, and (3)
+the number of bigrams required to add up to 10% of all bigrams
